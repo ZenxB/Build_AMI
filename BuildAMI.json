@@ -5,7 +5,7 @@
         "base_ami": "ami-03ef731cc103c9f09",
         "instance_type": "t2.micro",
         "subnet_id": "subnet-0748c5b2e6e2866bc",
-        "temporary_security_group_source_cidrs": "34.244.86.31/32",
+        "temporary_security_group_source_cidrs": "54.220.156.50/32",
         "associate_public_ip_address": "true"
     },
     "builders": [
